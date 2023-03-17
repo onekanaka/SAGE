@@ -7,5 +7,3 @@ For simplicity, we used the Windows console for all input and output, so no thir
 
 Any C++ compiler that supports C++11 and onwards should be enough to make this run, like g++. The resulting executable has a Pong clone out of the box as example.
 
-The code is completely free for anybody to use and study from, under the WTFPL.
-
